@@ -1,0 +1,38 @@
+.adminSeite {
+  min-height: 85vh;
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  align-items: center;
+  //   text-align: center;
+  h1 {
+    font-size: 1.5rem;
+  }
+  form {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: flex-start;
+    input {
+      &:nth-of-type(1) {
+        width: 100%;
+        padding: 1rem;
+      }
+
+      &:nth-of-type(3) {
+        padding: 0.75rem 3rem;
+        align-self: center;
+        background-color: chocolate;
+        border: none;
+        border-radius: 3rem;
+        color: white;
+      }
+    }
+    textarea {
+      width: 100%;
+      padding: 1rem;
+    }
+  }
+}
