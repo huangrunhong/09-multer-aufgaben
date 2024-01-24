@@ -1,0 +1,21 @@
+[
+  
+  {
+    "id": 1706126617135,
+    "title": "All the Food",
+    "content": "All the Food is a blog dedicated to all the best places to eat and drink in Dublin. Unlike some of the other websites on this list, All the Food is specifically a blog website rather than a website that includes a blog as part of its content. Readers will find different types of blog content here, such as restaurant reviews, travel guides and neighborhood lists. There are six different categories on this blog: neighborhoods, reviews, restaurants, Dublin guides, travel guides and what’s new. What’s interesting is that each category page is structured differently based on the content type. The same goes for the blog post pages. This shows how well Editor Lisa Cope understands content and that, if you want to create a great user experience, there isn’t a one-size-fits-all solution for structuring your pages.",
+    "image": "http://localhost:1111/5af200_f0650fb4f63b4e8ab93aa84cc11c8b18~mv2.png"
+  },
+  {
+    "id": 1706126501802,
+    "title": "Seasons in Colour",
+    "content": "Jenny Kakoudakis’ interior design blog, Seasons in Colour, equips professional designers with educational content—all within a sophisticated, tasteful and user-friendly site. In fact, it earned an Amara Interior Blog Award back in 2016. The first fold of the site is a full-bleed image of the feature story. The secondary feature appears on a black background, which breaks up the design of the site while calling attention to an article that Jenny is particularly proud of. To monetize the blog, she built a shopping page full of affiliate links.",
+    "image": "http://localhost:1111/seasons-in-color.png"
+  },
+  {
+    "id": 1706126288135,
+    "title": "Zion Adventure Photog",
+    "content": "The Zion Adventure Photog blog establishes owner Arika as an expert of both photography and Zion National Park. The blog’s rugged, playful color scheme of brown and gold evokes nature and sunshine. Its homepage features visual testimonials of happy clients enjoying their adventures. Arika embeds her Instagram Feed directly onto her site, spreading the word about her service and drawing people deeper into her brand through social media marketing.",
+    "image": "http://localhost:1111/blogs1.png"
+  }
+]
